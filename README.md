@@ -17,6 +17,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ## Find Your Name Below!
 
-### Lindsey
+### David
+
+![This is my gif!](https://media.giphy.com/media/HmWdvnwNNc6wo/giphy.gif)
 
 ### Test Two
